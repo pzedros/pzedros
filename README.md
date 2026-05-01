@@ -9,3 +9,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=gulzar&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=%D8%B1%D8%AC%D9%84+%D8%A8%D8%B1%D9%8A%D8%A1;petroleum+engineer)](https://git.io/typing-svg)
 
 </div>
+
+<!-- CONTACT -->
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrosamuelfraga)
+
+</div>
+
+<br/>
